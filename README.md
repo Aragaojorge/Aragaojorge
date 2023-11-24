@@ -11,6 +11,7 @@ I'm Jorge Aragão, a software development student, passionate about both front-e
 - **Email:** [3glasser@gmail.com](mailto:3glasser@gmail.com)
 - **LinkedIn:** [www.linkedin.com/in/jorge-aragão-24b1b1a1](https://www.linkedin.com/in/jorge-arag%C3%A3o-24b1b1a1)
 - **Personal website:** [https://aragaojorge.github.io/](https://aragaojorge.github.io/)
+- **Python personal project with Django Framework:** [https://django.phonebook.com.br/](https://django.phonebook.com.br/)
 
 ## Interests
 
