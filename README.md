@@ -2,7 +2,7 @@
 
 Hello,
 
-I'm Jorge Aragão, a software student, passionate about both front-end and back-end development. I'm constantly learning and exploring various programming languages and frameworks. Here's a bit more about me and my interests:
+I'm Jorge Aragão, a software development student, passionate about both front-end and back-end development. I'm constantly learning and exploring various programming languages and frameworks. Here's a bit more about me and my interests:
 
 ## About Me
 
@@ -10,20 +10,21 @@ I'm Jorge Aragão, a software student, passionate about both front-end and back-
 - **Location:** Brazil
 - **Email:** [3glasser@gmail.com](mailto:3glasser@gmail.com)
 - **LinkedIn:** [www.linkedin.com/in/jorge-aragão-24b1b1a1](https://www.linkedin.com/in/jorge-arag%C3%A3o-24b1b1a1)
+- **Personal website:** [https://aragaojorge.github.io/](https://aragaojorge.github.io/)
 
 ## Interests
 
 - Front-end and Back-end Development
 - Learning and mastering multiple programming languages
 - Exploring various frameworks for web development
-- Working with databases (SQL)
+- Working with databases (SQlite, MYSQL and PostgreSQL)
 
 ## Current Focus
 
 I'm currently focused on learning and improving my skills in the following languages and technologies:
 
-- **Languages:** Python, Java, PHP, SQL, JavaScript
-- **Frameworks:** Bootstrap, Django, and various others
+- **Languages:** Python, Java, PHP, SQL and JavaScript
+- **Frameworks:** Bootstrap, Django, and others
 - **Databases (SGBD):** SQLite, MySQL, PostgreSQL
 
 ## Hobbies
